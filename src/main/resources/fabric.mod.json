@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "nep",
+  "version": "${version}",
+
+  "name": "Not Enough PvP (NEP)",
+  "description": "Mod that contains PvP utilities",
+  "authors": [
+    "Jakooob"
+  ],
+  "contact": {
+    "homepage": "https://jakoob14.github.io/",
+    "sources": "https://github.com/jakooob14/nep"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/nep/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.jakooob14.nep.NEPMod"
+    ],
+    "client": [
+      "io.github.jakooob14.nep.NEPModClient"
+    ],
+    "modmenu": [
+      "io.github.jakooob14.nep.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "nep.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

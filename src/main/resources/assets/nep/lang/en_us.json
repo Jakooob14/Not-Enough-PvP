@@ -1,0 +1,14 @@
+{
+  "text.autoconfig.NEP.option.position": "Position",
+  "text.autoconfig.NEP.option.position.@Tooltip": "Choose from left, middle or right (If overwrite position is enabled this won't do anything)",
+  "text.autoconfig.NEP.option.overwritePosition": "Overwrite position",
+  "text.autoconfig.NEP.option.overwritePosition.@Tooltip": "Manually specify the X position",
+  "text.autoconfig.NEP.option.xPosition": "X Position",
+  "text.autoconfig.NEP.option.xPosition.@Tooltip": "Set the position from the left (Only works if overwrite position is enabled)",
+  "text.autoconfig.NEP.option.yPosition": "Y Position",
+  "text.autoconfig.NEP.option.yPosition.@Tooltip": "Set the position from the top (Only works if overwrite position is enabled)",
+  "key.nep.toggleArmor": "Toggle Missing Armor HUD",
+  "key.category.nep.main": "Not Enough PvP",
+  "text.missingArmorToggleMessage.enabled": "Missing armor HUD §aenabled",
+  "text.missingArmorToggleMessage.disabled": "Missing armor HUD §cdisabled"
+}
