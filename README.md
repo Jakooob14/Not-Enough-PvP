@@ -1,5 +1,5 @@
 # Not Enough PvP
-Hello, this is my first ever mod for Minecraft so don't expect anything big.
+Hello, this is my first ever mod for Minecraft so don't expect anything big. This mod is for **Fabric**.
 
 For now, the only feature is to show what armor piece you're missing.
 
